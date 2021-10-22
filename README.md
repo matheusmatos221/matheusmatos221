@@ -1,9 +1,10 @@
-### Hi there, I'm Matheus Matos - aka [codeSTACKr][website] 👋
+### Hi there, I'm Matheus Matos 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/math_matoso?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=math_matoso)
 
-<a href="https://twitter.com/math_matoso?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @math_matoso</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/math_matoso?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @math_matoso
+
 
 ## I'm a Developer, Enginner and Teacher!!
 
@@ -95,13 +96,19 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+
+
+[twitter]: https://twitter.com/math_matoso
+[youtube]: https://www.youtube.com/channel/UCVQfrV-qooQ_D-w-8lG_djA
+[instagram]: https://www.instagram.com/math_azzam/
+[linkedin]: https://www.linkedin.com/in/matheus-matos-1045bb8a/
+  
+  
+<!--  
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+-->
