@@ -1,5 +1,7 @@
 ### Hi there, I'm Matheus Matos 👋
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="matheus-matos-1045bb8a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/matheus-matos-1045bb8a?trk=profile-badge">Matheus Matos</a></div>
+              
 <!--
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 -->
