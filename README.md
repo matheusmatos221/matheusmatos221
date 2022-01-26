@@ -61,6 +61,17 @@
   <img align="left" alt="matheusmatos221's GitHub Stats" src="https://github-readme-stats.matheusmatos221.vercel.app/api?username=matheusmatos221r&show_icons=true&hide_border=true" />
 </details>
 
+### Minhas informações aqui no GitHub:
+![Status](https://github-readme-stats.vercel.app/api?username=matheusmatos221) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmatos221&layout=compact)](https://github.com/matheusmatos221/github-readme-stats)
+
+<p align="center">
+ Quantidade de visitas no meu perfil desde: 09/09/1500<br></p>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/matheusmatos221/count.svg" /></p>
+<p align="center">
+Obrigado pela visita 😁
+</p>
+
 
 [github]: https://github.com/matheusmatos221
 [twitter]: https://twitter.com/math_matoso
